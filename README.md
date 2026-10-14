@@ -4,6 +4,8 @@
 
 ## Запуск
 
+Двойной клик по `run.bat` (сам поставит PyQt6, если его нет). Или вручную:
+
 ```
 pip install PyQt6
 python main.py
